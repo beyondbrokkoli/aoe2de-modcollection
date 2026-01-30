@@ -72,7 +72,7 @@ Only proceed if you're certain that the only `.wav` files in your current direct
 
 - Copy the path of your `.wem` file
 
-  ![copy path](quietsoundmod/scr10.png)
+  ![copy path](screenshots/scr10.png)
 
 - Use the `-o sound.wav` option to name your output file
 
